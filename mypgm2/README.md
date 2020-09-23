@@ -10,8 +10,9 @@ After downloading the mypgm2 directory, go into the directory and run the progra
 
 ```
 Example
-```
+
 cargo run sample.yaml
+'''
 
 ## Running the tests
 
