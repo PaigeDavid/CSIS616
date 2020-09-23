@@ -16,6 +16,9 @@ cargo run sample.yaml
 
 ## Running the tests
 
-Run the following command in the mypgm2 directory: cargo test
+Run the following command in the mypgm2 directory: 
+```
+cargo test
+```
 
 This test checks if a fake file name is called, the program fails.
