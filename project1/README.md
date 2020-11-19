@@ -17,7 +17,7 @@ cargo run a*b
 b
 ab
 testb
-'''
+```
 
 ## Running the tests
 
@@ -35,13 +35,13 @@ This test checks if a graphviz file can be generated from the a regex.
 4) Make sure with | symbol, the regex is in quotes:
 
 ```
-Example
+Example:
 
 cargo run 'qq|aa|5'
 qq
 aa
 5
-'''
+```
 
 3) Single + working, multiple + working in some instances. Almost got working as well. Possible fix explained in comments
 
