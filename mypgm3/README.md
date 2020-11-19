@@ -12,8 +12,9 @@ The 'string' should be any string that fits into the language based on the DFA m
 
 ```
 Example
-```
+
 cargo run sample.yaml xyxy
+```
 
 ## Running the tests
 
